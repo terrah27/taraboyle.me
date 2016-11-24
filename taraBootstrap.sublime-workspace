@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"storeI",
+				"storeInput"
+			],
+			[
+				"store",
+				"storeInput"
+			],
+			[
+				"S",
+				"StorePicker"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"site",
+				"site_link"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get",
+				"getRandomColor"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/taraboyle1/completeWebDeveloper/jquery/jquery.html",
+		"/Users/taraboyle1/completeWebDeveloper/jquery/jquery.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/Header.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/AddFishForm.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/App.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/Fish.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/Inventory.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/StorePicker.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/index.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/helpers.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/NotFound.js",
+		"/Users/taraboyle1/learnReact/React-For-Beginners-Starter-Files/catch-of-the-day/src/components/app.js",
+		"/Users/taraboyle1/sites/wordpress/wp-content/themes/skillcrushstarter/contnent-blog.php",
+		"/Users/taraboyle1/sites/wordpress/wp-content/themes/skillcrushstarter/style.css",
+		"/Users/taraboyle1/sites/wordpress/wp-config-sample.php",
+		"/Users/taraboyle1/taraboyle.me/css/bootstrap.min.css",
+		"/Users/taraboyle1/taraboyle.me/css/bootstrap.css",
+		"/Users/taraboyle1/taraboyle.me/index.html",
+		"/Users/taraboyle1/sites/wordpress/wp-content/themes/skillcrushstarter/index.php",
+		"/Users/taraboyle1/taraboyle.me/css/main.css",
+		"/Users/taraboyle1/completeWebDeveloper/jquery/embeddingJquery.html",
+		"/Users/taraboyle1/Documents/skillCrush/101-sample-code-16.06/index.html",
+		"/Users/taraboyle1/index.html",
+		"/Users/taraboyle1/Downloads/index.html",
+		"/Users/taraboyle1/Desktop/Old Firefox Data/1ckycr8t.default/extensions/staged/{a7c6cf7f-112c-4500-a7ea-39801a327e5f}/content/js/connection/paramikojs/kryptos/Cipher/AES.js",
+		"/Users/taraboyle1/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/taraboyle1/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/taraboyle1/Documents/skillCrush/skillcrush105/105-project/css/style.css",
+		"/Users/taraboyle1/Documents/skillCrush/101-sample-code-16.06/css/main.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "taraBootstrap.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/components/Inventory.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
